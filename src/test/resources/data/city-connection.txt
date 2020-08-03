@@ -1,0 +1,12 @@
+Seattle - Vancouver
+Seattle - Portland
+Portland - Las Vegas
+Portland - Nevada
+Portland - Salt Lake City
+Salt Lake City - Albuquerque
+Albuquerque - Austin
+Salt Lake City - Colorado Springs
+Las Vegas - Phoenix
+Phoenix - Dallas
+Omaha - Dallas
+Omaha - Chicago
